@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxvtvFbJ6zn93Riyh6XVbj5sS8cuTrvanJMD8NnUtUd/uy7t/ST4LDjruvOa5qfTrFbNfbJd6sfu7L2arKHW0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevinfranklin46\\Documents\\launchcode\\csharp-practice\\CH7 - Inheritance\\Excercise\\Inheritance\\Inheritance\\Technology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevinfranklin46\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

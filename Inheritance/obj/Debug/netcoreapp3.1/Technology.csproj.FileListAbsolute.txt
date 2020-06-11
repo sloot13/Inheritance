@@ -1,0 +1,13 @@
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.exe
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.deps.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.dev.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.dll
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.csprojAssemblyReference.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.AssemblyInfoInputs.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.AssemblyInfo.cs
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.csproj.CoreCompileInputs.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.dll
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH7 - Inheritance\Excercise\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Technology.genruntimeconfig.cache
